@@ -116,6 +116,8 @@
 
 - [ ] threejs学习使用
 - [ ] webssh（web terminal搭建）
+- [ ] nodejs一个基本项目的搭建
+  - [ ] 学习nodejs基础以及实战项目
 - [ ] nodejs做中间层
   - [ ] 考虑做ssr（服务器段渲染优化）
   - [ ] 接口调用优化
